@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Link to my portfolio : https://rancha124.github.io/
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Hello there, I'm Charan, passionate about creating innovative solutions and bringing ideas to life through technology. With a background in software domain and 2.5 years of experience, I thrive on challenges and enjoy crafting meaningful projects that make a difference. I am dedicated to continuous learning and am excited about the endless possibilities in the digital world.
+
